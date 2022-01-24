@@ -1,0 +1,54 @@
+            body {
+                background-color: white;
+            }
+            
+            .bg-light {
+                --bs-bg-opacity: 1;
+                background-color: white;
+            }
+            
+            .offcanvas-body {
+                flex-grow: 1;
+                padding: 1rem 1rem;
+                overflow-y: auto;
+                background-color: white;
+                color: white !important;
+            }
+            
+            .offcanvas-header {
+                flex-grow: 1;
+                padding: 1rem 1rem;
+                overflow-y: auto;
+                background-color: black;
+            }
+            
+            .home1 {
+                background-repeat: space;
+                background-size: cover;
+                background-image: url("https://static.remove.bg/remove-bg-web/a6eefcd21dff1bbc2448264c32f7b48d7380cb17/assets/start_remove-c851bdf8d3127a24e2d137a55b1b427378cd17385b01aec6e59d5d4b5f39d2ec.png");
+            }
+            
+            .home2 {
+                background-repeat: space;
+                background-size: cover;
+                background-image: url("https://img-19.ccm2.net/WNCe54PoGxObY8PCXUxMGQ0Gwss=/480x270/smart/d8c10e7fd21a485c909a5b4c5d99e611/ccmcms-commentcamarche/20456790.jpg");
+            }
+            
+            .home3 {
+                background-repeat: space;
+                background-size: cover;
+                background-image: url('https://media.istockphoto.com/photos/very-closeup-view-of-amazing-domestic-pet-in-mirror-round-fashion-is-picture-id1281804798?b=1&k=20&m=1281804798&s=170667a&w=0&h=HIWbeaP_cQSngCz7l9t3xwyE2eyzVgIy3K6xIqPhJQA=');
+            }
+            
+            .imgdrop {
+                background-repeat: no-repeat;
+                background-size: cover;
+                width: 342px;
+                height: 141px;
+            }
+            
+            .offcanvas-title {
+                margin-bottom: 0;
+                line-height: 1.5;
+                color: white !important;
+            }
